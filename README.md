@@ -18,7 +18,7 @@ To get started with the Samurai Source API, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dangelonakamura/samurai-source
+   git clone https://github.com/dangelonakamura/samurai-source.git
    ```
 
 2. **Navigate to the project directory:**
